@@ -1,0 +1,12 @@
+# NetBeans specific ignore
+nbproject/private/
+build/
+dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
